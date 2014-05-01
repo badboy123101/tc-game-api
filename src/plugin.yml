@@ -1,0 +1,8 @@
+name: BasePlugin
+version: 1.0
+main: com.mydeblob.main.Main
+author: mydeblob
+commands:
+   basecommand:
+      description: Base command for Mini-Game Shell.
+      usage: /<command> help

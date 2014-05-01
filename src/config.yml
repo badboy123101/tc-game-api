@@ -1,0 +1,7 @@
+#————————————————————————————————————————————————————————————————————————————————
+# Welcome to the configuration for BasePlugin
+#————————————————————————————————————————————————————————————————————————————————
+# This is the max amount of players allowed in a game
+max-players: 12
+# This is the minimum amount required before a game starts
+min-players: 6
